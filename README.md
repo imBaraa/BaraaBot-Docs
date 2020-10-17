@@ -24,5 +24,7 @@ Features:
 examples:
 ----
 <img src="images/startCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/banCommand.jpg" width="200" /><img src="images/muteCommand.jpg" width="200" /><img src="images/unmuteCommand.jpg" width="200" />
-
-`/start` Command `/about` Command `براء حظر` Command `براء ميوت` Command                                            `براء انميوت` Command
+<div style="justify-content: space-evenly;">
+  <p><code>/start</code> Command</p> <p><code>/about</code> Command</p> <p><code>براء حظر</code> Command</p> <p><code>براء ميوت</code> Command</p> <p><code>براء انميوت</code> Command</p>
+</div>
+`/start` Command `/about` Command `براء حظر` Command `براء ميوت` Command `براء انميوت` Command
