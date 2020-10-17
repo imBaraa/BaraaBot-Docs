@@ -7,9 +7,9 @@ updates can contain several different things such as fixing bugs along with what
 ### Pilot, BaraaBot version 1.0.0
 First version of the bot, contains 9 Commands plus other features:
 - `/start` command: Gives an introduction about BaraaBot.
-- `/about` command: Gives information about the bot and its current version plus the to the developer info.
-- `براء حظر` command: Used in groups ONLY, as an administrator, mention someone's text with this command and they will be kicked from the group chat.
-- `براء ميوت` command: Used in groups ONLY, as an administrator, mention someone's text with this mute command and the number of minutes to be muted and they will be muted for that specific duration, mute range (1 till 4320) minutes.
+- `/about` command: Gives information about the bot and its current version plus the developer contact info.
+- `براء حظر` command: Used in groups ONLY, as an administrator, mention someone's text with this command and they will be kicked/banned from the group chat.
+- `براء ميوت` command: Used in groups ONLY, as an administrator, mention someone's text with this mute command and the number of minutes to be muted and they will be muted for that specific duration, mute range (1 till 4320) minutes, which is 3 Days.
 - `براء انميوت` command: Used in groups ONLY, as an administrator:
   1. write "**@someone براء انميوت**" and they will be unmuted using their usernames.
   2. mention someone's text with this unmute command they will be unmuted (in-case this user has no username >> @someone), or just unmute them yourself.
