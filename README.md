@@ -23,10 +23,10 @@ Features:
 ----
 examples:
 ----
-| `/start` Command | `/about` Command | `براء حظر` Command | `براء ميوت` Command | `براء انميوت` Command | 
-| ---------------- | ---------------- | ------------------- | -------------------- | ---------------------- |
-|<img src="images/startCommand.gif" width="200" /> | <img src="images/aboutCommand.gif" width="200" /> | <img src="images/banCommand.jpg" width="200" /> | <img src="images/muteCommand.jpg" width="200" /> | <img src="images/unmuteCommand.jpg" width="200" /> |
+| `/start` Command | `/about` Command | `براء حظر` Command | `براء ميوت` Command | 
+| ---------------- | ---------------- | ------------------- | -------------------- |
+|<img src="images/startCommand.gif" width="200" /> | <img src="images/aboutCommand.gif" width="200" /> | <img src="images/banCommand.jpg" width="200" /> | <img src="images/muteCommand.jpg" width="200" /> |
 
-| `براء هات` Command | `براء حول` Command | `براء قلد` & `لا تقلد` Commands |
-| ---------------- | ---------------- | ------------------- |
-|<img src="images/getCommand.jpg" width="200" /> | <img src="images/fontStyleCommand.jpg" width="200" /> | <img src="images/copy_notCopyCommand.gif" width="200" /> |
+| `براء انميوت` Command | `براء هات` Command | `براء حول` Command | `براء قلد` & `لا تقلد` Commands |
+| ---------------- | ---------------- | ------------------- | --------------------------------------- |
+|<img src="images/unmuteCommand.jpg" width="200" /> |<img src="images/getCommand.jpg" width="200" /> | <img src="images/fontStyleCommand.jpg" width="200" /> | <img src="images/copy_notCopyCommand.gif" width="200" /> |
