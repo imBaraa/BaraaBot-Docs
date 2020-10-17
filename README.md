@@ -25,4 +25,4 @@ examples:
 ----
 <img src="images/startCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/banCommand.jpg" width="200" /><img src="images/muteCommand.jpg" width="200" /><img src="images/unmuteCommand.jpg" width="200" />
 
-<div style="display: inline-block" width=200px align="center"><p width=200px style="text-align:center"><code>/start</code> Command</p></div>
+<div style="display: inline-block;" width=200px align="center"><p width=0 200 0 0 style="text-align:center"><code>/start</code> Command</p></div>
