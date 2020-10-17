@@ -24,6 +24,5 @@ Features:
 examples:
 ----
 <img src="images/startCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/banCommand.jpg" width="200" /><img src="images/muteCommand.jpg" width="200" /><img src="images/unmuteCommand.jpg" width="200" />
-```html
+
 <p width=200px><code>/start</code> Command</p>
-```
