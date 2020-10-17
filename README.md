@@ -27,6 +27,6 @@ examples:
 | ---------------- | ---------------- | ------------------- | -------------------- |
 |<img src="images/startCommand.gif" width="200" /> | <img src="images/aboutCommand.gif" width="200" /> | <img src="images/banCommand.jpg" width="200" /> | <img src="images/muteCommand.jpg" width="200" /> |
 
-| `براء انميوت` Command | `براء هات` Command | `براء حول` Command | `براء قلد` & `لا تقلد` Commands |
+| `براء انميوت` Command | `براء هات` Command | `براء حول` Command | `لا تقلد` & `براء قلد` Commands |
 | ---------------- | ---------------- | ------------------- | --------------------------------------- |
 |<img src="images/unmuteCommand.jpg" width="200" /> |<img src="images/getCommand.jpg" width="200" /> | <img src="images/fontStyleCommand.jpg" width="200" /> | <img src="images/copy_notCopyCommand.gif" width="200" /> |
