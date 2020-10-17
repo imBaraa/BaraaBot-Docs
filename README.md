@@ -23,4 +23,4 @@ Features:
 ----
 examples:
 ----
-<img src="images/startCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" />
+<img src="images/startCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" />
