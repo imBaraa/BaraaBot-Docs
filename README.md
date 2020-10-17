@@ -25,7 +25,7 @@ examples:
 ----
 | `/start` Command | `/about` Command | `براء حظر` Command | `براء ميوت` Command | `براء انميوت` Command | 
 | --------------- | -------- | -------- | -------- | -------- |
-|<img src="images/startCommand.gif" /> | <img src="images/aboutCommand.gif" width="200" /> | <img src="images/banCommand.jpg" width="200" /> | <img src="images/muteCommand.jpg" width="200" /> | <img src="images/unmuteCommand.jpg" width="200" /> |
+|<img src="images/startCommand.gif" width="200" /> | <img src="images/aboutCommand.gif" width="200" /> | <img src="images/banCommand.jpg" width="200" /> | <img src="images/muteCommand.jpg" width="200" /> | <img src="images/unmuteCommand.jpg" width="200" /> |
 
 <img src="images/startCommand.gif" width="200" /><img src="images/aboutCommand.gif" width="200" /><img src="images/banCommand.jpg" width="200" /><img src="images/muteCommand.jpg" width="200" /><img src="images/unmuteCommand.jpg" width="200" />
 <div style="display: flex; justify-content: space-between;">
