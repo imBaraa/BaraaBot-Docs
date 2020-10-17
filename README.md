@@ -4,7 +4,7 @@ BaraaBot is a telegram bot that acts as a personal assistant
 BaraaBot was created using Pythonic ways 😉, and it is in its first phases of development, Hope it will provide a lot of educational benefits plus other joyable benefits too.
 ## Updates
 updates can contain several different things such as fixing bugs along with what will be mentioned in the update
-### Pilot, BaraaBot version 0.0.1
+### Pilot, BaraaBot version 1.0.0
 First version of the bot, contains 9 Commands plus other features:
 - `/start` command: Gives an introduction about BaraaBot.
 - `/about` command: Gives information about the bot and its current version plus the to the developer info.
